@@ -1,0 +1,11 @@
+﻿@model Bookstore_Management.Models.Book
+
+@{
+    ViewBag.Title = "Edit Book";
+}
+
+<h2>Edit Book</h2>
+
+<form asp-action="EditBook" method="post">
+    @Html.Partial("Shared/_BookForm", Model)
+</form>
