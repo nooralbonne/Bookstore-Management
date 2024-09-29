@@ -8,8 +8,6 @@ A simple ASP.NET Core MVC project to manage books in a bookstore. The applicatio
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [License](#license)
 
 ## Project Overview
 
@@ -46,19 +44,6 @@ Once the application is running, you can use the following features:
 - **Update**: Click on "Edit" to modify book details.
 - **Delete**: Click on "Delete" to remove a book from the list.
 
-## Screenshots
-
-### Home Page
-
-![Home Page](./screenshots/home.png)
-
-### Create Book Page
-
-![Create Book](./screenshots/create-book.png)
-
-### Books List
-
-![Books List](./screenshots/books-list.png)
 
 
 
